@@ -1,0 +1,10 @@
+- Need 7-9 hour sleep
+- Get up with your alarm. Don't snooze
+- No phone for the first hour
+- Put phone away from bedroom. Charge before bed
+- Delay caffeine for 90 min after waking up
+- Workout and move your body
+- Breakfast with high protein
+- Practice mindfulness and shalat
+- Review and plan your day
+- Tackle your most important first

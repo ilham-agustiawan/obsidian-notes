@@ -1,0 +1,1 @@
+Shopping is low leisure
