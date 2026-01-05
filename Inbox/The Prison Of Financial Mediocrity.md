@@ -1,6 +1,6 @@
 ---
 title: The Prison Of Financial Mediocrity
-source: https://archive.is/20260102170214/https://www.nytimes.com/2025/12/28/opinion/willpower-doesnt-work-this-does.html
+source: https://x.com/systematicls/status/2004900241745883205/?rw_tt_thread=True
 author: Andrey Kasay
 published: 2026-01-03
 created: 2026-01-05
@@ -8,49 +8,176 @@ description:
 tags:
   - clippings
 ---
-You have been granted access, use your keyboard to continue reading.
+# Introduction
 
-“We need willpower,” says Frog.
+I am not a stock picker. I worship at the altar of a large breadth of low confidence (<= 53% win-rate) bets, but I am absolutely betting the house that long degeneracy is the prevalent socioeconomic theme of the coming century.
 
-“What is willpower?” asks Toad.
+It is why people above the age of 40 will recommend you to get better at your job and increase your salary, whilst everyone else seem to be ignoring exactly THAT and desperately clawing at something, ANYTHING that can give them a shot of outrageous success.
 
-“Willpower is trying hard not to do something that you really want to do,” says Frog.
+The easiest thing to sell to a crowd like this is "hope", and when you understand this, you will understand the rise of the casinos (in all forms, dexes, prediction markets, etc) and the rise of trading gurus, business gurus, courses, and of course... substacks.
 
-Grown-ups, too, understand this struggle. In surveys, American adults have cited lack of willpower as [the top barrier](https://archive.is/o/cLTUP/https://www.apaservices.org/practice/update/2012/02-23/willpower) to changing behavior. Around the world, when adults have rated themselves on two dozen positive qualities, self-control has ranked [dead last](https://archive.is/o/cLTUP/https://www.tandfonline.com/doi/abs/10.1080/17439760.2014.888580). Research also [shows](https://archive.is/o/cLTUP/https://pubmed.ncbi.nlm.nih.gov/20565167/) that exercising willpower feels pretty awful, whether you are resisting something fun or forcing yourself to do something unfun.
+## The Set-up
 
-Especially at this time of year, when holiday treats and year-end sales confront us at every turn, willing ourselves to resist can feel Scrooge-like. So we indulge. Then, come January, millions of us make New Year’s resolutions with fierce determination, only to abandon them by February.
+One doesn't need to be locked up to be imprisoned. There is a generation walking around with invisible bars.
 
-The logical solution seems obvious: Try harder. Strengthen your willpower muscle. “Just say no,” as Nancy Reagan admonished my generation. “Just do it,” as Nike urges. Yet, as a psychologist who studies how people achieve their goals, I see the data leading to the opposite conclusion: Willpower is overrated.
+They know the life exists, the house, the stability, the reward for showing up and doing the right thing for thirty years. They know people have it. They just can't imagine how to get there. Not "it's hard"; they literally cannot construct a realistic path from where they are to where they're supposed to end up.
 
-Research shows that achievement has surprisingly little to do with forcing yourself to choose wisely in the heat of the moment. Successful people rarely rely on inner fortitude to resist temptations. Instead, many exercise situational agency, arranging their lives to [minimize the need for willpower](https://archive.is/o/cLTUP/https://pmc.ncbi.nlm.nih.gov/articles/PMC4736542/) in the first place.
+The traditional path to wealth accumulation is closed. Not difficult. Closed. When boomers hold ~50% of national wealth while comprising 20% of the population, and millennials hold ~10% despite being the same share, the game reveals itself to be fundamentally broken.
 
-It can feel embarrassing or even shameful to admit you lack the fortitude to make farsighted choices when temptation beckons. But interviews with some of the most disciplined people on the planet have taught me that you do hard things more consistently when you put yourself in situations that make the pursuit easier.
+The ladder got pulled up and it's not like the boomers wanted to do this; asset price inflation just happened to benefit those who already owned assets. But the effect is the same.
 
-For instance, Alistair Brownlee, a two-time Olympic gold medalist in the triathlon, makes sure his equipment is in order before a workout and that his shoes are warm, dry and waiting for him at the door. He bought his first house because it was close to the trails and pools where he ran and swam. “My mantra in life has always been to take the first step,” he says. Did all that situational scaffolding erode his grit? Quite the opposite.
+## The Collapse of the Traditional Bargain
 
-You don’t need to be an elite athlete to benefit from situational agency. People are more likely to exercise when the situation [makes exercise more fun](https://archive.is/o/cLTUP/https://hbr.org/tip/2017/09/make-achieving-your-long-term-goals-more-fun-in-the-short-term-2), research shows. Taking a walk outdoors, rather than on a treadmill at the gym, is the only way I get my steps in. My daughters have discovered that going to the gym is double the fun when they go together. Many other people find it easier to exercise when [bundling their workout](https://archive.is/o/cLTUP/https://pmc.ncbi.nlm.nih.gov/articles/PMC4381662/) with a favorite podcast or audiobook.
+The implicit deal used to be simple: show up, work hard, stay loyal, and you'll be rewarded. Companies offered pensions. Tenure meant something. Your house appreciated while you slept. The system worked if you trusted it.
 
-Instead of admonishing my students to try harder to stay off their phones, I confess that I, too, find myself checking my texts, notifications and email [far more often than I’d like](https://archive.is/o/cLTUP/https://www.youtube.com/watch?v=RrQnmBN9grI).
+That deal is dead.
 
-Random-assignment experiments confirm the causal role of putting temptations out of sight and out of reach. Adults encouraged to keep unhealthy foods at a distance [ate healthier](https://archive.is/o/cLTUP/https://journals.sagepub.com/doi/abs/10.1177/0146167220949813) days later. Students encouraged to apply the same strategy to distractions in their immediate surroundings later [reported more success](https://archive.is/o/cLTUP/https://pmc.ncbi.nlm.nih.gov/articles/PMC4856169/) in pursuing their academic goals and felt less tempted while doing so.
+Staying at one company for 20 years is now a career liability, not an asset. Wages grew 8% while housing costs doubled and debt payments for young people increased ~33%. The math doesn't support patience anymore.
 
-Institutions also have the power to change situations for the better. In schools that ask students to keep phones in their hallway lockers, as opposed to in their backpacks or back pockets, teachers report that students [make more eye contact](https://archive.is/o/cLTUP/https://www.youtube.com/watch?v=ld2ywYq7feo) with one another. They talk. The lunchroom is louder, the way it should be.
+Looking at the bigger picture, I used to think it was bad, but with the advent of AI and the economic impact they are going to have (even with current technologies), I think it is only going to get significantly worst.
 
-You cannot change the conditions of modern life, but you are the sovereign of what enters your personal space. Physical distance creates psychological distance: Draw close what you want more of; push away what you want less.
+When the system stops rewarding patience, people stop being patient.
 
-[Angela Duckworth](https://archive.is/o/cLTUP/https://angeladuckworth.com/), a professor of psychology at the University of Pennsylvania, is the author of “Grit” and the forthcoming book “Situated: Finding the People and Places That Bring Out Your Best.”
+Call it rational adaptation.
 
-*The Times is committed to publishing* [*a diversity of letters*](https://archive.is/o/cLTUP/https://www.nytimes.com/2019/01/31/opinion/letters/letters-to-editor-new-york-times-women.html) *to the editor. We’d like to hear what you think about this or any of our articles. Here are some* [*tips*](https://archive.is/o/cLTUP/https://help.nytimes.com/hc/en-us/articles/115014925288-How-to-submit-a-letter-to-the-editor)*. And here’s our email:* [*letters@nytimes.com*](https://archive.is/20260102170214/https://www.nytimes.com/2025/12/28/opinion/)*.*
+## Push And Pull
 
-*Follow the New York Times Opinion section on* [*Facebook*](https://archive.is/o/cLTUP/https://www.facebook.com/nytopinion)*,* [*Instagram*](https://archive.is/o/cLTUP/https://www.instagram.com/nytopinion/)*,* [*TikTok*](https://archive.is/o/cLTUP/https://www.tiktok.com/@nytopinion)*,* [*Bluesky*](https://archive.is/o/cLTUP/https://bsky.app/profile/nytopinion.nytimes.com), [*WhatsApp*](https://archive.is/o/cLTUP/https://www.whatsapp.com/channel/0029VaN8tdZ5vKAGNwXaED0M) *and* [*Threads*](https://archive.is/o/cLTUP/https://www.threads.net/@nytopinion)*.*
+Two forces are at work here.
 
-- [Green Soups for Gray Days](https://archive.is/o/cLTUP/https://www.nytimes.com/2026/01/01/dining/green-soups-for-gray-days.html)
-- [Tesla Car Sales Dropped 9% in 2025, Falling Behind China’s BYD](https://archive.is/o/cLTUP/https://www.nytimes.com/2026/01/02/business/tesla-electric-vehicles-fourth-quarter-sales.html)
-- [9 Podcasts That Made Us Stop and Really Listen in 2025](https://archive.is/o/cLTUP/https://www.nytimes.com/2025/12/30/arts/podcasts-2025-heavyweight-gilmore.html)
-- [Big Changes Are Coming to Student Loans. Here’s What to Know if You’re Struggling.](https://archive.is/o/cLTUP/https://www.nytimes.com/2026/01/02/business/student-loan-debt-save-plan.html)
-- [Opinion: A Trump Security Guarantee Is Empty, Mr. Zelensky](https://archive.is/o/cLTUP/https://www.nytimes.com/2026/01/01/opinion/trump-zelensky-putin-ukraine-russia-war-us.html)
-- [Manhattan Man, 80, Faces Homicide Charge After Sidewalk Shoving](https://archive.is/o/cLTUP/https://www.nytimes.com/2025/12/31/nyregion/nyc-man-homicide-charges-sidewalk-shoving.html)
-- [Drones Detect Virus in Whale Blow in the Arctic](https://archive.is/o/cLTUP/https://www.nytimes.com/video/science/100000010615816/drones-arctic-whale-virus.html)
-- [New Rules for the New Year](https://archive.is/o/cLTUP/https://www.nytimes.com/2025/12/31/realestate/gardening-rules-new-year-plants.html)
-- [Opinion: Their Eyes](https://archive.is/o/cLTUP/https://www.nytimes.com/video/opinion/100000010486246/their-eyes.html)
-- [To the World, She Was a Kennedy. To Me, She Was a Rookie Ready to Work.](https://archive.is/o/cLTUP/https://www.nytimes.com/2025/12/30/us/tatiana-schlossberg-journalist-kennedy.html)
+## The Pull
+
+Modern society has mostly solved the bottom tiers of Maslow's hierarchy. Food is cheap. Basic shelter exists. Safety, healthcare, baseline employment, not guaranteed, but accessible enough that most young people aren't fighting for survival.
+
+Previous generations facing economic constraint had a different problem. When you're worried about eating, you don't have bandwidth for existential questions. The grind makes sense because the alternative is starvation. You take the stable job, you stay quiet, you don't rock the boat - because the boat is keeping you alive.
+
+This generation doesn't have that distraction.
+
+When survival is handled, humans reach for the next tier: belonging, esteem, self-actualization. They want experiences. They want meaning. They want to feel like their life is going somewhere, not just continuing. And the traditional paths to those higher needs, home ownership, career progression, financial security, are exactly what's been blocked.
+
+Collectively, we are apes that are reflexively scratching at the scab of our higher order needs of actualization, and the blood won't stop flowing but we literally don't know how to do better.
+
+## The Push (and Why It's Getting Worse)
+
+AI is coming for white-collar jobs, and everyone knows it.
+
+The anxiety isn't hypothetical anymore. ChatGPT writes better copy than most junior marketers. Midjourney produces better visuals than entry-level designers. Cursor and Claude write code that passes review. This is now more or less universally accepted except by those with severe skill issues.
+
+Every month brings new benchmarks showing AI matching or exceeding human performance on tasks that used to require expensive degrees and years of training.
+
+White-collar workers, or otherwise the financially aspirational, are watching the timeline shrink. Three years ago, "AI will replace knowledge workers" was a thought experiment. Now it's a planning assumption. Everyone's asking when, not if, and the estimates keep getting shorter.
+
+Then there's social media, which ensures you're never satisfied with where you are.
+
+The algorithm is optimized to show you the next tranche of what could be. Always the vacation you haven't taken. The apartment you can't afford. The lifestyle one rung above yours. It doesn't matter where you are on the ladder; there's always someone above you, and the algorithm will find them.
+
+Previous generations had limited visibility into how others lived. You compared yourself to your neighbors, your coworkers, maybe some celebrities in magazines. The reference class was narrow. Now the reference class is infinite. A 25-year-old making $70k is constantly fed content from people their age making $2mn, living in Bali, "working" four hours a day. The baseline for "enough" keeps moving.
+
+You never catch up. No matter what you achieve, social media will show you what you're missing. The spread between your life and the life you "should" have is maintained algorithmically, forever uncollapsible.
+
+So you have AI shrinking your timeline AND social media ensuring you never feel like you've arrived. The pressure to escape, NOW, FAST, before it's too late, compounds daily.
+
+The anxiety is pervasive. Every white-collar worker has done the mental exercise: "Could AI do my job? When?" And most of them don't love their answers. Even if they think they're safe for now, "for now" keeps getting shorter.
+
+So you have a generation that can't afford the traditional milestones AND believes the traditional path might evaporate before they reach the destination anyway. Taking shots now, while the money and the opportunity still exist, is the rational response.
+
+Why grind for 20 years toward a promotion that might not exist in 10?
+
+## The Maslow Trap
+
+When you can survive but can't get anywhere, something breaks. You're not desperate enough to accept any deal, but you're blocked from the deals that actually matter. The cognitive bandwidth that would have gone to survival instead goes to... frustration. Searching. Looking for any path that might lead somewhere.
+
+Career progression isn't just income, it's purpose, identity, the feeling that your work matters. Financial security isn't just money, it's the freedom to take risks, travel, build, create.
+
+When these paths close AND the timeline to achieve them shrinks, the pressure has to go somewhere. These prisoners need a way out, and BY GOD they need a way out NOW.
+
+## Agency In The Casino
+
+I first saw it in the L1 Crypto; and dismissed it as a fad. Then I saw it again in NFTs, and then again and again in the entire shit show between NFTs and perp dexes and now, obviously, the "prediction markets supercycle".
+
+The same young people who can't imagine grinding at one company will absolutely grind for months learning crypto trading. They will pour hours into understanding prediction markets to understand the very economy they believe wholeheartedly to be rigged. The same person who dismisses traditional investing as an "inside game" will bet their rent money on a memecoin.
+
+Why?
+
+Because the casino is the only place they feel agency. The only place where their decisions might actually unlock the next tier, on a timeline that matters.
+
+Traditional career path? Your manager got promoted for being there first, not for being good, and your whole department might get automated anyway. Stock market? Sure, you can earn 10% annually and afford a house in 47 years, assuming your job still exists.
+
+But crypto? Prediction markets? Sports betting? Your research actually matters here. Conviction pays. Even an imagined edge feels like yours, not something you're waiting for someone to grant you. You're placing bets where your judgment directly determines your results.
+
+The house edge exists. Most people lose. I think MOST PEOPLE understand this. But they're playing, not waiting for a future that might never arrive. The people preaching for these people to STOP GAMBLING have failed to understand the predicament of the prisoners, and always assume a kind of intellectual superiority that "you have negative edge". My position is that I think the gamblers absolutely understand that.
+
+The ones who say "gambling is bad, you should stop" are almost always the ones speaking from a privileged position of being in the financial upper class. They SEE a way out; they SEE a path. So they espouse the goodness and kindness of god on staying the path.
+
+For the many imprisoned, gambling is their salvation, and you are literally telling them to accept a life of eternal damnation. That is why they rebel against you. That is why your well-intentioned advice falls on deaf ears.
+
+## What Do The Numbers Look Like?
+
+Prediction Markets: Polymarket and Kalshi did $10B+ in volume in November 2025 alone. Combined annual volume is approaching $40B. In 2020 this was essentially zero. The growth rate is vertical.
+
+Sports Betting: Legal sports betting revenue went from $248M in 2017 to $13.7B in 2024. Gen Z and Millennials account for 76% of betting activity. Activity on online sportsbooks rose 7% year-over-year for both cohorts.
+
+TransUnion's report identified these gamblers as "speculators": urban renters, heavy users of crypto apps, concentrated in mobile trading platforms. Young people locked out of traditional wealth-building, seeking asymmetric payoffs in the only markets that offer them.
+
+## Economic Theory Supports This
+
+When you're trapped, your risk preferences change.
+
+Economists call this "convex utility in losses": when you're already losing, you prefer a small chance of getting back to even over a certain moderate loss. It's the same reason people double down at blackjack when they're behind. It's why lottery tickets sell better in poor neighborhoods.
+
+My take is that social media and our higher order needs have conditioned people that are positioned well below the financial upper class to feel like they are already at a loss. The zeroth line has been repositioned. It is why you see unironic takes about the poverty line being at $150k. This generation isn't gambling to survive, they're gambling to actually have a life.
+
+When your basic needs are met but your higher needs are blocked, money stops being about security and starts being about access. Access to experiences. Access to freedom. Access to the life you can see but can't reach. A house isn't just shelter; it's the ability to have roots, build community, feel like an adult. Travel isn't luxury; it's the experience that makes life feel worth living.
+
+For a generation that sees no realistic path to these things through conventional means, the expected value of a moonshot starts looking better than the expected value of grinding. If your baseline is "treading water forever," then a PERCEIVED 5% chance of escaping is mathematically attractive against a 100% chance of staying stuck.
+
+This isn't financial illiteracy. It is revealed preference under constraint.
+
+The memecoin degens, the sports bettors, the prediction market junkies, the trading guru subscriboors: they understand the odds are bad. They also understand their alternatives. When your options are "definitely stuck" or "probably stuck but with a small chance of being not," the second option wins every time.
+
+## Long Degeneracy
+
+So: what do you buy?
+
+If this diagnosis is right, that a generation of economically locked-out young people will continue seeking agency through high-variance financial products, then you want to be long anything that serves that demand.
+
+The platforms win regardless of whether the users win. You are looking for platforms that doesn't care if you win your bet or if your prediction is right. You are looking for businesses that extract fees from activity, and activity is growing.
+
+Entrepreneurship: The 'escape the 9-5' industrial complex is enormous and growing. Course creators selling dropshipping tutorials. Coaches selling agency models. Gurus selling 'how I made $100k/month' playbooks. 'Start your own business' is already the socially acceptable lottery ticket; it feels productive, agentic, like you're building something. The fact that most entrepreneurs fail doesn't dampen demand any more than bad odds dampen lottery sales.
+
+Prediction markets: Polymarket is raising at an $8-10B valuation. The combined TAM people cite is "the entire betting industry," over a trillion dollars. Even if that's optimistic by 90%, it's a massive market.
+
+Crypto infrastructure: Custody, trading, staking, lending. Every new wave of speculators needs on-ramps. Coinbase, Robinhood's crypto arm, specialized exchanges; they all benefit from volume regardless of direction.
+
+Sports betting operators: DraftKings, FanDuel, and their infrastructure providers. Legal sports betting is still rolling out state by state. The regulatory moat is real.
+
+Social trading and community: Discord servers, X/Twitter accounts, Substack newsletters that cater to this audience. The attention is there. The willingness to pay for alpha is there.
+
+The bet isn't that any individual speculator wins. The bet is that the phenomenon persists. That the underlying economic conditions driving young people toward high-variance bets don't change. That the platforms extracting fees from this activity continue to grow with the audience. That the financially imprisoned will parlay one bet to another, to another, to another, one must imagine Sispyhus filling out his 401st lottery ticket.
+
+Given what we know about AI acceleration, housing costs, wealth distribution, and generational economics... does this seem like a temporary thing?
+
+## The Moral Dimension
+
+Look, this thesis is descriptive, not prescriptive.
+
+Watching a generation seek financial salvation through lottery tickets, even sophisticated lottery tickets, isn't something to celebrate. The fact that prediction markets and memecoins feel like the only path to agency is a symptom of something broken. The house wins. Most players lose.
+
+But understanding what's happening lets you position for it. Let's you reflect on it. Let's you decide if you want to be a part of it. IF you do, you should step into this with both eyes open, and bet where you have an edge.
+
+The casinos of every era have profited from desperation. The desperation today is real, documented, and growing. The casinos are The Hope Sellers, Polymarket, Coinbase, DraftKings. They're going to keep taking rake.
+
+You can moralize about this or you can be long the platforms. It is unironically one of the ways you CAN get out. Or you can be on the gamblers, and if you are, you better be good.
+
+Very good. Because this is not a game. This is your life we are talking about. If you are going to wager with your soul on the line, you need to give yourself the best chance that you can win.
+
+## Conclusion
+
+I leave you a story...
+
+There's a guy I know, smart, works in tech, makes good money by any historical standard. Last month he "invested" $100k farming perp dex points. Not because he thought it was a good investment.
+
+Because, and I quote: "What else am I gonna do, save for 20 years and buy a condo when I'm 55?"
+
+I just know he's waiting for the next dex to come around so he'll do it again.
+
+Long degeneracy.
